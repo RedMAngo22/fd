@@ -1,0 +1,9 @@
+NaN -- A simple, unix-like terminal
+
+COMMANDS
+help  - Displays command information
+exit  - Exits the terminal
+cd    - Changes the active directory
+ls    - Shows files in the active directory
+pwd   - Displays the active directory
+clear - Clears the terminal window
